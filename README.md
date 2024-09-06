@@ -1,3 +1,2 @@
-"# example-repo" 
-"# example-repo" 
-"# example-repo" 
+# Example Repository
+This is a sample repo, hello world!
